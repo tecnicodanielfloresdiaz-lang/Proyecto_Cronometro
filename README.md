@@ -1,3 +1,7 @@
+📸 Demo
+
+[🔗 Ver Demo en Vivo](https://tecnicodanielfloresdiaz-lang.github.io/Proyecto_Cronometro/)
+
 ⏱️ JavaScript Stopwatch
 
 Un cronómetro digital moderno y funcional construido con Vanilla JavaScript. Este proyecto demuestra el control preciso del tiempo y la manipulación dinámica de la interfaz de usuario (DOM).
