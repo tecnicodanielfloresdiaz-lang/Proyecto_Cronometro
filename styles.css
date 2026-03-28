@@ -54,3 +54,18 @@ body {
 #boton-reiniciar {
   background-color: red;
 }
+
+/* Ajuste para móviles */
+@media (max-width: 480px) {
+  #cronometro{
+    font-size: 45px; /* Reducción del tamaño */
+    word-wrap: break-word; /* Fuerza el salto de línea si la palabra es muy larga */
+  }
+  .boton {
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  padding: 5px;
+  cursor: pointer;
+  }
+}
